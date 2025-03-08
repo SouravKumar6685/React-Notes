@@ -6,22 +6,22 @@ Welcome to the **React Learning Hub**! This repository contains a step-by-step g
 
 Each topic is linked to its respective Markdown (`.md`) file for easy access. Click to explore! 👇
 
-1. [Introduction]([./Introduction.md](https://github.com/SouravKumar6685/React-Notes/blob/main/01_installation.md))
-2. [React Components]([./Components.md](https://github.com/SouravKumar6685/React-Notes/blob/main/03_React_Components.md))
-3. [JSX]([./JSX.md](https://github.com/SouravKumar6685/React-Notes/blob/main/04_jsx.md))
-4. [Curly Braces in JSX]([./CurlyBraces.md](https://github.com/SouravKumar6685/React-Notes/blob/main/05_Curley_Braces.md))
-5. [Fragments]([./Fragments.md](https://github.com/SouravKumar6685/React-Notes/blob/main/06_Fragments.md))
-6. [Props/Children/Keys]([./Props.md](https://github.com/SouravKumar6685/React-Notes/blob/main/07_Props_Children.md))
-7. [Keys]([./keys.md]https://github.com/SouravKumar6685/React-Notes/blob/main/08_keys.md)
-8. [Rendering]([./Rendering.md](https://github.com/SouravKumar6685/React-Notes/blob/main/09_Rendering.md))
-9. [Event Handling]([./EventHandling.md](https://github.com/SouravKumar6685/React-Notes/blob/main/10_EventHandling.md))
-10. [State]([./State.md](https://github.com/SouravKumar6685/React-Notes/blob/main/11_State.md))
-11. [Controlled Components]([./ControlledComponents.md](https://github.com/SouravKumar6685/React-Notes/blob/main/12_Controlled_components.md))
-12. [Hooks]([./Hooks.md](https://github.com/SouravKumar6685/React-Notes/blob/main/13_React_Hooks.md))
-13. [Purity in React]([./Purity.md](https://github.com/SouravKumar6685/React-Notes/blob/main/14_purity.md))
-14. [Effects (`useEffect`)]([./Effects.md](https://github.com/SouravKumar6685/React-Notes/blob/main/15_Effects.md))
-15. [Refs (`useRef`)]([./Refs.md](https://github.com/SouravKumar6685/React-Notes/blob/main/16_Refs.md))
-16. [Context API (`useContext`)]([./Context.md](https://github.com/SouravKumar6685/React-Notes/blob/main/17_Context.md))
+1. [Introduction](https://github.com/SouravKumar6685/React-Notes/blob/main/01_installation.md)
+2. [React Components](https://github.com/SouravKumar6685/React-Notes/blob/main/03_React_Components.md)
+3. [JSX](https://github.com/SouravKumar6685/React-Notes/blob/main/04_jsx.md)
+4. [Curly Braces in JSX](https://github.com/SouravKumar6685/React-Notes/blob/main/05_Curley_Braces.md)
+5. [Fragments](https://github.com/SouravKumar6685/React-Notes/blob/main/06_Fragments.md)
+6. [Props/Children/Keys](https://github.com/SouravKumar6685/React-Notes/blob/main/07_Props_Children.md)
+7. [Keys](https://github.com/SouravKumar6685/React-Notes/blob/main/08_keys.md)
+8. [Rendering](https://github.com/SouravKumar6685/React-Notes/blob/main/09_Rendering.md)
+9. [Event Handling](https://github.com/SouravKumar6685/React-Notes/blob/main/10_EventHandling.md)
+10. [State](https://github.com/SouravKumar6685/React-Notes/blob/main/11_State.md)
+11. [Controlled Components](https://github.com/SouravKumar6685/React-Notes/blob/main/12_Controlled_components.md)
+12. [Hooks](https://github.com/SouravKumar6685/React-Notes/blob/main/13_React_Hooks.md)
+13. [Purity in React](https://github.com/SouravKumar6685/React-Notes/blob/main/14_purity.md)
+14. [Effects (`useEffect`)](https://github.com/SouravKumar6685/React-Notes/blob/main/15_Effects.md)
+15. [Refs (`useRef`)](https://github.com/SouravKumar6685/React-Notes/blob/main/16_Refs.md)
+16. [Context API (`useContext`)](https://github.com/SouravKumar6685/React-Notes/blob/main/17_Context.md)
 
 
 ---
