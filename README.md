@@ -1,0 +1,59 @@
+# 🚀 **React Learning Hub**  
+
+Welcome to the **React Learning Hub**! This repository contains a step-by-step guide covering all essential React concepts with **beginner-friendly explanations, real-world examples, and structured folder setups**. 📚🔥
+
+## 📌 **Table of Contents**
+
+Each topic is linked to its respective Markdown (`.md`) file for easy access. Click to explore! 👇
+
+1. [Introduction]([./Introduction.md](https://github.com/SouravKumar6685/React-Notes/blob/main/01_installation.md))
+2. [React Components]([./Components.md](https://github.com/SouravKumar6685/React-Notes/blob/main/03_React_Components.md))
+3. [JSX]([./JSX.md](https://github.com/SouravKumar6685/React-Notes/blob/main/04_jsx.md))
+4. [Curly Braces in JSX]([./CurlyBraces.md](https://github.com/SouravKumar6685/React-Notes/blob/main/05_Curley_Braces.md))
+5. [Fragments]([./Fragments.md](https://github.com/SouravKumar6685/React-Notes/blob/main/06_Fragments.md))
+6. [Props/Children/Keys]([./Props.md](https://github.com/SouravKumar6685/React-Notes/blob/main/07_Props_Children.md))
+7. [Keys]([./keys.md]https://github.com/SouravKumar6685/React-Notes/blob/main/08_keys.md)
+8. [Rendering]([./Rendering.md](https://github.com/SouravKumar6685/React-Notes/blob/main/09_Rendering.md))
+9. [Event Handling]([./EventHandling.md](https://github.com/SouravKumar6685/React-Notes/blob/main/10_EventHandling.md))
+10. [State]([./State.md](https://github.com/SouravKumar6685/React-Notes/blob/main/11_State.md))
+11. [Controlled Components]([./ControlledComponents.md](https://github.com/SouravKumar6685/React-Notes/blob/main/12_Controlled_components.md))
+12. [Hooks]([./Hooks.md](https://github.com/SouravKumar6685/React-Notes/blob/main/13_React_Hooks.md))
+13. [Purity in React]([./Purity.md](https://github.com/SouravKumar6685/React-Notes/blob/main/14_purity.md))
+14. [Effects (`useEffect`)]([./Effects.md](https://github.com/SouravKumar6685/React-Notes/blob/main/15_Effects.md))
+15. [Refs (`useRef`)]([./Refs.md](https://github.com/SouravKumar6685/React-Notes/blob/main/16_Refs.md))
+16. [Context API (`useContext`)]([./Context.md](https://github.com/SouravKumar6685/React-Notes/blob/main/17_Context.md))
+
+
+---
+
+## 🎯 **Why This Repository?**
+✅ **Beginner-Friendly** - Explained in an easy-to-understand manner ✨  
+✅ **Step-by-Step Learning** - Concepts arranged in a structured roadmap 🛣️  
+✅ **Hands-on Code Examples** - Practical examples to enhance learning 💻  
+✅ **Best Practices** - Industry-standard coding techniques 🏆  
+
+---
+
+## 🔥 **How to Use This Repository?**
+1. Clone this repo:  
+   ```bash
+   git clone https://github.com/your-username/react-learning-hub.git
+   ```
+2. Navigate to the project folder:  
+   ```bash
+   cd react-learning-hub
+   ```
+3. Open the Markdown files to explore the topics:  
+   ```bash
+   code Components.md
+   ```
+   *(Replace `Components.md` with any topic of your choice!)*
+
+---
+
+## 🤝 **Contribute & Support**
+Want to improve this repository? Feel free to **fork, star ⭐, and contribute!** If you find this helpful, give a ⭐ to support my efforts! 🙌
+
+📬 **Stay Connected:** [Your LinkedIn/GitHub/Twitter]  
+Happy coding! 🚀
+
